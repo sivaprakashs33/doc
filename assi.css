@@ -14,7 +14,7 @@
 }
 
 body{
-    background-image:url(../doc/logo.jpg);
+    background-image:url(./logo.jpg);
     background-size:cover;
    background-repeat:no-repeat;
   
